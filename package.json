@@ -42,7 +42,7 @@
     "gulp-typescript": "5.0.1",
     "less": "3.9.0",
     "less-plugin-npm-import": "2.1.0",
-    "lodash": "4.17.11",
+    "lodash": "4.17.13",
     "postcss": "^7.0.16",
     "rimraf": "2.6.3",
     "rollup": "1.13.0",
